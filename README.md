@@ -1,6 +1,8 @@
 hometime
 ========
 
-Alfred Workflow for home time, type in 'hometime' and the workflow will eject all drives, then post a notification. 
+Alfred Workflow to eject all drives.
 
-Simple. 
+Simple to use, download it, add it to workflows, and type 'hometime'. A Desktop notification will tell you when you can go home. 
+
+The latest release can be found [here](https://github.com/NimbleWorks/hometime/releases)
